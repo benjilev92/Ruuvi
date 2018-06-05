@@ -1,0 +1,8 @@
+  tx_power -7 pressure 99200 mac_address f16b8addc3d2 rssi -84 temperature 19 humidity 52.0
+  tx_power -7 pressure 99200 mac_address f16b8addc3d2 humidity 52.0 temperature 19 rssi -81
+  pressure 99200 rssi -86 humidity 52.0 mac_address f16b8addc3d2 tx_power -7 temperature 19
+  rssi -86 mac_address f16b8addc3d2 tx_power -7 humidity 52.0 temperature 20 pressure 99200
+  humidity 52.0 rssi -87 mac_address f16b8addc3d2 tx_power -7 temperature 20 pressure 99200
+  humidity 52.0 rssi -87 pressure 99200 mac_address f16b8addc3d2 tx_power -7 temperature 20
+  pressure 99200 temperature 20 humidity 52.0 rssi -85 mac_address f16b8addc3d2 tx_power -7
+  mac_address f16b8addc3d2 humidity 52.0 rssi -88 temperature 20 pressure 99200 tx_power -7

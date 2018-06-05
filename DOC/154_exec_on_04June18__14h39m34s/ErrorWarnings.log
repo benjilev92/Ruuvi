@@ -1,0 +1,2 @@
+mkdir: cannot create directory ‘DOC’: File exists
+mkdir: cannot create directory ‘CONFIG’: File exists

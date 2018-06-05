@@ -1,0 +1,17 @@
+mkdir: cannot create directory ‘DOC’: File exists
+mkdir: cannot create directory ‘CONFIG’: File exists
+"./CONFIG/wprssi.config", line 8: warning: Cannot find or open file "./DOC/DATA/rssi.data"
+"./CONFIG/wprssi.config", line 8: No data in plot
+
+"./CONFIG/wphumidity.config", line 8: warning: Cannot find or open file "./DOC/DATA/humidity.data"
+"./CONFIG/wphumidity.config", line 8: No data in plot
+
+"./CONFIG/wppressure.config", line 8: warning: Cannot find or open file "./DOC/DATA/pressure.data"
+"./CONFIG/wppressure.config", line 8: No data in plot
+
+"./CONFIG/wptemperature.config", line 8: warning: Cannot find or open file "./DOC/DATA/temperature.data"
+"./CONFIG/wptemperature.config", line 8: No data in plot
+
+"./CONFIG/wptx_power.config", line 8: warning: Cannot find or open file "./DOC/DATA/tx_power.data"
+"./CONFIG/wptx_power.config", line 8: No data in plot
+

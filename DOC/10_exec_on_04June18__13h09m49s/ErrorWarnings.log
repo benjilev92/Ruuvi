@@ -1,0 +1,3 @@
+mkdir: cannot create directory ‘DOC’: File exists
+mkdir: cannot create directory ‘CONFIG’: File exists
+Warning: empty y range [19:19], adjusting to [18.81:19.19]

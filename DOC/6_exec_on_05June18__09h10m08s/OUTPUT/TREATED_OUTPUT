@@ -1,0 +1,5 @@
+  pressure 99300 humidity 52.0 temperature 25 rssi -34 mac_address f16b8addc3d2 tx_power -7
+  pressure 99300 temperature 25 rssi -34 tx_power -7 mac_address f16b8addc3d2 humidity 52.0
+  tx_power -7 rssi -31 pressure 99300 humidity 52.0 mac_address f16b8addc3d2 temperature 25
+  tx_power -7 mac_address f16b8addc3d2 rssi -34 temperature 25 pressure 99300 humidity 52.0
+Weather info tx_power -7 temperature 25 rssi -36 pressure 99300 humidity 52.0 mac address f16b8addc3d2
